@@ -1,0 +1,6 @@
+NOT 5V tolerant
+
+Library to use 32 bit natively. 
+
+Even has a sniffer setting! This just turns off slave output
+https://forum.pjrc.com/threads/66389-SPISlave_T4?p=271504#post271504
